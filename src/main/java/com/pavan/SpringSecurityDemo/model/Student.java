@@ -1,7 +1,6 @@
-package com.pavan.SpringSecurityDemo;
+package com.pavan.SpringSecurityDemo.model;
 
 import java.math.BigDecimal;
-import java.math.BigInteger;
 
 public class Student {
     private int stuentId;
